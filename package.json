@@ -1,0 +1,26 @@
+{
+  "name": "skillvc-voiceinsights",
+  "version": "1.0.0",
+  "description": "Voice Insights plugin for SkillVC",
+  "main": "index.js",
+  "directories": {
+  },
+  "dependencies": {
+    "voice-insights-sdk": "^1.2.1",
+    "prompt": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sseaman/skillvc-voiceinsights.git"
+  },
+  "bugs" : {
+    "url" : "https://github.com/sseaman/skillvc-voiceinsights/issues"
+  },
+  "keywords": [
+    "alexa",
+    "skillvc",
+    "voice-insights"
+  ],
+  "author": "Sloan Seaman",
+  "license": "Apache-2.0"
+}

@@ -1,0 +1,12 @@
+{
+	"executor" : "./pluginExecutor.js",
+	"filters" : [
+		"./filters/voiceInsightsFilter.js"
+	],
+	"sessionHandlers" : [
+		"./sessionHandlers/voiceInsightsSessionHandler.js"
+	],
+	"node_modules" : [
+		"voice-insights-sdk"
+	]
+}
