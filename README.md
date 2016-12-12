@@ -9,7 +9,7 @@ To use this plugin you will need an account with Voice Labs [http://voicelabs.co
 -----
 To install the Voice Insights plugin, use SkillVC's plugin installation system from your projects root directory:
 
-     ./node_modules/.bin/skillvc install skillvc-voiceinsights --ignore_errors
+     ./node_modules/.bin/skillvc install . skillvc-voiceinsights --ignore_errors
 
 During installation you will be prompted for the application token.  Enter it 
 or edit the ./sessionHandlers/voiceInsightsSessionHander.js file later to enable the plugin with 
