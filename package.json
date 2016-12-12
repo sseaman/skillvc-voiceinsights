@@ -1,6 +1,6 @@
 {
   "name": "skillvc-voiceinsights",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Voice Insights plugin for SkillVC",
   "main": "index.js",
   "directories": {
